@@ -4,6 +4,7 @@
     <classes>
       <class name="com.clavax.novus.utility.Baseclass"/>
        <class name="com.clavax.novus.login.Novusautomation"/>
+       <class name="com.clavax.novus.admin.Admin"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
